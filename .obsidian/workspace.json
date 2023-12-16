@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eb351d300c95a815",
+        "id": "2575a1054b1b6b69",
         "type": "tabs",
         "children": [
           {
-            "id": "dccf75655304b98b",
+            "id": "24654cfc35d1fcfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dccf75655304b98b",
+  "active": "24654cfc35d1fcfe",
   "lastOpenFiles": [
-    "README.md.md",
+    "images/estructuras_agiles.png",
+    "images/Screenshot 2023-12-15 at 18.19.29.png",
+    "images",
+    "horus/horus_sears.md",
+    "mops/mops_domesticas.md",
+    "omega/omega_asopagos.md",
+    "slytherin/slytherin_emision.md",
+    "thanos/thanos_mynehub.md",
+    "README.md",
+    "horus/infolog/231216.md",
+    "horus/infolog/231216",
+    "thanos/infolog",
+    "slytherin/infolog",
+    "omega/infolog",
+    "mops/infolog",
+    "horus/infolog",
+    "thanos/thanos.md",
+    "mops/mops.md",
+    "horus/horus.md",
+    "omega/omega.md",
+    "slytherin/slytherin.md",
+    "thanos/README copy.md",
+    "README copy.md",
+    "omega/README.md",
+    "horus/README.md",
+    "horus/README copy.md",
+    "mops/README.md",
+    "slytherin/README.md",
+    "slytherin",
+    "omega",
+    "thanos",
     "README.md.canvas",
     "2023-12-16.md"
   ]
